@@ -11,3 +11,10 @@ h1 {
     font-size: 24px;
     color: red;
 }
+
+button {
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
